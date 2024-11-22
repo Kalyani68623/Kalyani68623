@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Kalyaniambalaga6@gamil.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/home](https://drive.google.com/drive/u/0/home)
+- 📄 Know about my experiences [https://drive.google.com/drive/u/0/home]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
