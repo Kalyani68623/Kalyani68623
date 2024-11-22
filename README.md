@@ -1,3 +1,4 @@
+![logo](https://github.com/Kalyani68623/Kalyani68623/blob/main/banner%20git.jpg)
 <h1 align="center">Hi 👋, I'm Kalyani cb</h1>
 <h3 align="center">Supply Chain and E-commerce Specialist | Aspiring Data Analyst |Ex-Barbeque nation| Ex- Zomato HP</h3>
 <img align="right" alt="Data analysis" width="400"src="https://indoanalytica.com/static/images/data-science-4.gif"> 
